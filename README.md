@@ -7,7 +7,7 @@
 
 <details>
   <summary>Choose your system</summary>
-  <ol>
+ 
     <li>
       <a href="#nodejs">Node JS</a>
     </li>
@@ -15,7 +15,7 @@
       <a href="#python">Python</a>
     </li>
     <li><a href="#java">Java</a></li>
-  </ol>
+
 </details>
 
 ### You will find below some sites indexed by natrix which will help you to host your bot for free.
